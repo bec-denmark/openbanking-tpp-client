@@ -1,5 +1,8 @@
 # Third Party Provider (TPP) client library
 
+## Check build status
+[![Java CI with Maven](https://github.com/bec-denmark/openbanking-tpp-client/actions/workflows/maven.yml/badge.svg)](https://github.com/bec-denmark/openbanking-tpp-client/actions/workflows/maven.yml)
+
 ## PSD2 - background and context information
 
 With **[PSD2](https://en.wikipedia.org/wiki/Payment_Services_Directive#Revised_Directive_on_Payment_Services_(PSD2))** the European Union has published a [new directive on payment services in the
