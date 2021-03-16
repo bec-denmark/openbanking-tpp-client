@@ -86,5 +86,5 @@ Finally use TppClientRequest, TppClientService and TppClientResponse to handle t
     }
 
 ``` 
-### Enrollmnt example
+### Enrollment example
 https://gist.github.com/kczechbec/7593f9556f76bfd2d799cb65d27e9afc
